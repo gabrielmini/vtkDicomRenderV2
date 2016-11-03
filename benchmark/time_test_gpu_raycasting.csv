@@ -1,0 +1,6 @@
+,Threshold Filter(s),Image Cast(s),Set Volume Property(s),Creating GPU Ray Cast Mapper(s),Creating Actor(s),Time to Render(s),Total(s)
+Times,0.06,0.05,0.00,0.08,0.00,0.87,1.05
+Percentage:,5.3166%,4.3198%,0.0000%,7.7756%,0.0000%,82.5881%,100.0%
+
+Memory Consumption(MB),322
+Lap Times,10

@@ -1,0 +1,6 @@
+,Threshold(s),Creating Marching Cubes(s),Creating PolyDataMapper(s),Creating Actor(s),Rendering(s),Total(s)
+Times,0.06,2.93,0.00,0.00,1.86,4.84
+Percentage:,1.2305%,60.4063%,0.0062%,0.0000%,38.3570%,100.0%
+
+Memory Consumption(MB),422
+Lap Times,10
